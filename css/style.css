@@ -1,0 +1,18 @@
+body {background-color: #ffffff}
+
+#header{
+background:darkblue;
+width: 600px;
+height:200px;
+}
+
+#content{
+background:oldlace;
+width: 600px;
+height:200px;
+}
+#footer{
+background:darkred;
+width: 600px;
+height:200px;
+}
